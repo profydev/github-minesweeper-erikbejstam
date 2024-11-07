@@ -1,33 +1,8 @@
 {
   "commands": [
-    "clear A1",
     "clear A8",
-    "clear A6",
-    "flag B4",
-    "flag F6",
-    "flag G6",
-    "flag B8",
-    "flag C8",
-    "clear E8",
-    "clear D8",
-    "clear F8",
-    "clear F7",
-    "flag H6",
-    "clear A4",
-    "clear H5",
-    "clear H4",
-    "flag H3",
-    "flag C2",
-    "clear C1",
-    "clear D2",
-    "clear E2",
-    "flag F2",
-    "flag H2",
-    "clear D1",
-    "clear E1",
-    "clear F1",
-    "clear G1",
-    "clear H1",
-    "clear G2"
+    "flag C3",
+    "flag D2",
+    "clear H8"
   ]
 }
